@@ -1,0 +1,9 @@
+# Internal working files — never published, never deployed
+tasks/
+Photos used/
+CLAUDE.md
+DEPLOY.md
+claude-code-handoff-ulanareytravels.md
+
+# OS cruft
+.DS_Store

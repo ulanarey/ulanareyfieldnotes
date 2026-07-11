@@ -1,0 +1,5 @@
+# ulanareyfieldnotes.com — permissive for search and AI crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://ulanareyfieldnotes.com/sitemap.xml
