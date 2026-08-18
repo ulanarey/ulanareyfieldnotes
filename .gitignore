@@ -1,4 +1,5 @@
 # Internal working files — never published, never deployed
+.claude/
 tasks/
 Photos used/
 CLAUDE.md
